@@ -1,0 +1,79 @@
+# Core Python Development and Utilities
+annotated-types==0.7.0
+attrs==24.2.0
+click==8.1.7
+decorator==5.1.1
+packaging==24.1
+pathlib==1.0.1
+six==1.16.0
+typing-extensions==4.12.2
+setuptools==75.2.0
+wheel==0.38.4
+tomlkit==0.12.0
+
+# Fundamental Libraries - Data Science and Machine Learning
+numpy==1.26.4
+pandas==2.0.3
+scipy==1.14.1
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Data Processing and Utilities
+joblib==1.4.2
+multiprocess==0.70.16
+pyarrow==18.0.0
+
+# Deep Learning and NLP (Natural Language Processing)
+# Deep Learning Frameworks
+torch==2.5.0
+torchvision==0.20.0
+accelerate==1.0.1
+
+# NLP Libraries
+transformers==4.42.4
+huggingface-hub==0.26.2
+tokenizers==0.19.1
+spacy==3.7.5
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+blis==0.7.11
+srsly==2.4.8
+preshed==3.0.9
+
+# Data Handling and Serialization
+filelock==3.16.1
+dill==0.3.8
+jsonschema==4.23.0
+jsonpointer==3.0.0
+jsonschema-specifications==2024.10.1
+cloudpathlib==0.20.0
+smart-open==7.0.5
+fsspec==2024.9.0
+
+# Web Development and APIs
+fastapi==0.115.4
+starlette==0.41.2
+uvicorn==0.32.0
+aiohttp==3.10.10
+httpcore==1.0.6
+httpx==0.27.2
+
+# Visualization and Plotting
+matplotlib==3.9.2
+plotly==5.15.0
+wordcloud==1.9.3
+altair==5.4.1
+
+# Jupyter Notebook and Related Libraries
+jupyter==1.1.1
+jupyter-console==6.6.3
+jupyter-events==0.10.0
+jupyter-lsp==2.2.5
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+jupyter_server==2.14.2
+jupyter_server_terminals==0.5.3
+jupyterlab==4.2.5
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.27.3
+jupyterlab_widgets==3.0.13
